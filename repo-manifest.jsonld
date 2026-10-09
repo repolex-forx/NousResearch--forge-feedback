@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/NousResearch/forge-feedback/commit/a40ace83208a696d2f77c8ae6b1da108b97298ca",
       "git:hexsha": "a40ace83208a696d2f77c8ae6b1da108b97298ca",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }

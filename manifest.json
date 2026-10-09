@@ -1,0 +1,19 @@
+{
+  "manifest_version": "1.0",
+  "org": "NousResearch",
+  "repo": "forge-feedback",
+  "versions": [
+    {
+      "commit": "a40ace83208a696d2f77c8ae6b1da108b97298ca",
+      "parsed_at": "2026-10-09T13:19:40.270802+00:00",
+      "filetree": "filetree/a40ace83208a696d2f77c8ae6b1da108b97298ca.nq.gz",
+      "blobs": [
+        "blob/4c63274b1c063b1a1c0be81a2b21893d3c73b0fa.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz"
+}
